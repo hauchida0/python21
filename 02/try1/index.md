@@ -82,7 +82,7 @@ Pythonの基礎の学習は大切ですが、基礎ばかりをやっている�
 
 画像処理をするにはデジタル画像が必要です。以下のダウンロードボタンをクリックして写真をダウンロードしましょう。
 
-[![img](assets/image4.png) ](./photoSamples1.zip)（2.8MB）
+[![img](assets/image4.png) ](photoSamples1.zip)（2.8MB）
 
 「`photoSamples1.zip`」という圧縮ファイルがダウンロードされますので、解凍（展開）しましょう。
 解凍（展開）の仕方は次の通りです。
