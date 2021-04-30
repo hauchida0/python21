@@ -1,8 +1,8 @@
 # プログラミング入門
 
-[> Top](../)
+[> Top](../../)
 
-[> 第０回](../)
+[> 第３回](../)
 
 [gimmick:themechooser](Choose theme)
 
