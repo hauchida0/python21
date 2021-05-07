@@ -107,10 +107,10 @@ RGB のそれぞれはグレースケール画像の濃淡の情報と同じく�
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `try3_gray.py` という名前で保存してみました。
 
 ```python
@@ -124,7 +124,7 @@ img_gray.save("photoSample_03_gray.png")  # モノクロになった画像を保
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 しばらくすると作業ディレクトリにモノクロになった「`photoSample_03_gray.png`」というファイルが保存されます。
@@ -145,10 +145,10 @@ img_gray.save("photoSample_03_gray.png")  # モノクロになった画像を保
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `try3_1bit.py` という名前で保存してみました。
 
 ```python
@@ -162,7 +162,7 @@ img_1bit.save("photoSample_04_1bit.png")  # 変換した画像を保存する
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 しばらくすると作業ディレクトリに1bit化した「 `photoSample_04_1bit.png` 」というファイルが保存されます。
@@ -177,10 +177,10 @@ img_1bit.save("photoSample_04_1bit.png")  # 変換した画像を保存する
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `try3_hanten.py` という名前で保存してみました。
 
 ```python
@@ -194,7 +194,7 @@ img_hanten.save("photoSample_05_hanten.png")  # 反転された画像を保存�
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 しばらくすると作業ディレクトリにネガポジ反転された「`photoSample_05_hanten.png`」というファイルが保存されます。
@@ -290,10 +290,10 @@ img2.save("photoSample_02_2chika.png")          # img2 をPNG形式の画像と�
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `try3_changeRGB.py` という名前で保存してみました。
 
 ```python
@@ -322,7 +322,7 @@ img2.save("photoSample_05_bgr.png")       # img2 をPNG形式の画像として�
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 しばらくすると作業ディレクトリにネガポジ反転された「`photoSample_05_bgr.png`」というファイルが保存されます。
