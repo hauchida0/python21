@@ -6,6 +6,10 @@
 
 
 
+#### フローチャートを考える
+
+
+
 #### エディタにコードを入力
 
 ![img](assets/_newfile.png)
@@ -35,7 +39,7 @@
 
 
 
-<details><summary><u>→解答例を表示</u></summary><blockquote><span class="md-text">
+<details class="md-text"><summary><u>→解答例を表示</u></summary><blockquote><span>
 まずはフローチャートを考えてみましょう。
 以下は「if」「elif」「else」を使った場合のフローチャートと、「if」だけを使って条件式に「and」を用いた場合の２通りのフローチャートの例です。
 どちらでも実行結果は同じですが、この例の場合は and は使わずに書いた方がすっきりするかもしれません。
@@ -56,6 +60,7 @@ elif bmi < 25:
 else:
     print("肥満です。")</code></pre>
 <hr></span></blockquote></details>
+
 
 
 
