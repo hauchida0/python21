@@ -72,10 +72,10 @@ for文を使えば問題を10問表示していくコードは書けますが、
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `test7_1.py` という名前で保存してみました。
 
 ```python
@@ -94,7 +94,7 @@ print("おやすみなさい。")
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 コンソールに表示される指示にしたがっていくと次のようになります。
@@ -235,10 +235,10 @@ while True:
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `test7_2.py` という名前で保存してみました。
 
 ```python
@@ -264,7 +264,7 @@ print("おしまい！")
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 以下のようにドリルが進みます。
 
@@ -352,10 +352,10 @@ while を用いた繰り返し１では条件式の部分には True が入っ�
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `test7_3.py` という名前で保存してみました。
 
 ```python
@@ -374,7 +374,7 @@ print("お年玉を使いきりました。")
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 以下のようにお年玉が減っていきます。
@@ -539,10 +539,10 @@ print(pixel_val)                       # 取得した画素の値を表示
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `test7_4.py` という名前で保存してみました。
 
 ```python
@@ -572,7 +572,7 @@ img2.save("photoSample_01_negaposi.jpg", quality=95)
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 しばらくすると自分の作業フォルダ内にネガポジ反転されたjpegファイルが保存されているはずですので、確認しておきましょう。
