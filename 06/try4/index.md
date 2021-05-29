@@ -74,10 +74,10 @@ Photoshop の様々な合成モードと同じようなことが Pillow の中�
 
 #### エディタにコードを入力
 
-![img](assets/_newfile-1621392267650.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile-1621392267651.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `try4_blend1.py` という名前で保存してみました。
 
 ```python
@@ -92,7 +92,7 @@ img3.save("try4_blendTest1.png")        # 合成結果 (img3) を名前を付け
 
 #### 実行
 
-![img](assets/_jikkou-1621392267652.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 しばらくすると作業ディレクトリにモノクロになった「`photoSample_03_gray.png`」というファイルが保存されます。
@@ -135,10 +135,10 @@ Pillow でも同じようなことができますので、いくつかの処理�
 
 #### エディタにコードを入力
 
-![img](assets/_newfile-1621392270778.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile-1621392270778.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `try4_filter1.py` という名前で保存してみました。
 
 ```python
@@ -159,7 +159,7 @@ img5.save("try4_min.png")                              # MinFilterをかけた�
 
 #### 実行
 
-![img](assets/_jikkou-1621392270778.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 今回は4種類のフィルタのテストをまとめて行うコードになっていますので、
@@ -263,7 +263,7 @@ img5.save("dessin01.png")                       # img5 を保存
 
 #### 実行
 
-![img](assets/_jikkou-1621392270778.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 しばらくすると作業ディレクトリにネガポジ反転された「dessin01.png」というファイルが保存されます。

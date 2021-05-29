@@ -109,10 +109,10 @@ Python における字下げはとても重要です。なぜなら Python で�
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `test5_1.py` という名前で保存してみました。
 
 ```python
@@ -128,7 +128,7 @@ print(goukei)
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 ほんの一瞬でコンソールに合計値「50005000」が表示されたかと思います。あっという間ですね。
@@ -248,10 +248,10 @@ Q3：宇宙は約何億年前に誕生した？　A3：138
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `test5_2.py` という名前で保存してみました。
 
 ```python
@@ -273,7 +273,7 @@ for i in range(3):
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 コンソールに問題が表示されるので、解答を入力してリターンキーを押すと、正解か不正解化が表示され、次の問題に進みます。
@@ -458,10 +458,10 @@ li_scores からすべての要素を取り出したので、for文を終了
 
 #### エディタにコードを入力
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `test5_3.py` という名前で保存してみました。
 
 ```python
@@ -479,7 +479,7 @@ for d in li_drinks:
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 以下のように表示されたでしょうか。
 
@@ -665,10 +665,10 @@ for f in li_files:
 
 以上1. 2. 3.を踏まえてコードを作ってみましょう。
 
-![img](assets/_newfile.png)
+![img](assets/newfile.png)
 まず、Spyder の画面左上にある“新規ファイル”アイコンをクリックし、新しい Python ファイルを用意します。
 
-![img](assets/_savefile.png)
+![img](assets/savefile.png)
 作成したフローチャートを元に以下のコードを入力し、ファイルを保存アイコンをクリックして保存しましょう。今回は `test5_4.py` という名前で保存してみました。
 
 ```python
@@ -695,7 +695,7 @@ print("全てのJpegファイルをリサイズしました。")
 
 #### 実行
 
-![img](assets/_jikkou.png)
+![img](assets/jikkou.png)
 入力したら、画面上部の“ファイルを実行”アイコンをクリックしてみましょう。
 
 コンソールには次々に保存したことを示すメッセージが表示され、最後に「全てのjpegファイルをリサイズしました。」と表示されます。
