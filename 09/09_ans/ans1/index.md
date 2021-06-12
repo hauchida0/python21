@@ -46,14 +46,14 @@ year2 = int(year)
 以上をコードにしてみると、例えば以下のように書くことができます。
 
 ```python
-import calendar                                                 # calendarモジュールをインポート
-print("表示させたいカレンダーの年を西暦で入力してください。")   #  
-y = input()                                                     # 入力した文字列を y に代入
-print("表示させたいカレンダーの月を入力してください。")         #  
-m = input()                                                     # 入力した文字列を m に代入
-y2 = int(y)                                                     # y は文字列（str型）なので整数値（int型）に変換し、y2 に代入
-m2 = int(m)                                                     # m は文字列（str型）なので整数値（int型）に変換し、m2 に代入
-print(calendar.month(y2, m2))                                   # カレンダーをコンソールに表示
+import calendar                                          # calendarモジュールをインポート
+print("表示させたいカレンダーの年を西暦で入力してください。")
+y = input()                                              # 入力した文字列を y に代入
+print("表示させたいカレンダーの月を入力してください。")
+m = input()                                              # 入力した文字列を m に代入
+y2 = int(y)                                              # y は文字列（str型）なので整数値（int型）に変換し、y2 に代入
+m2 = int(m)                                              # m は文字列（str型）なので整数値（int型）に変換し、m2 に代入
+print(calendar.month(y2, m2))                            # カレンダーをコンソールに表示
 ```
 
 ![img](assets/image2.png)
