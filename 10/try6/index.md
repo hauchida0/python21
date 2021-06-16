@@ -110,7 +110,7 @@
 > なおマンデルボックスは立体ですので、3DCGと合成することで様々な映像利用ができるのでは、と考えています。
 > そのテストとして作曲家の清田愛未さんの新譜「VOICES2」のPV制作依頼を請けた際、背景を全てマンデルボックスで作成するテストを行ってみました。
 >
-> （武蔵美プログラミング入門 金曜日担当講師 中山先生 談）
+> （プログラミング入門 金曜日担当講師 中山先生 談）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i0YeUZp3b24?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
