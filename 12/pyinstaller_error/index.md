@@ -28,9 +28,7 @@ pip install PyQt5
 
 インストール出来たら、もう一度
 
-```shell
-! pyinstaller 〇〇〇〇.py --onefile --noconsole -y
-```
+<pre><code class="shell">! pyinstaller 〇〇〇〇.py --onefile --noconsole -y</code></pre>
 
 のコマンドでアプリ化を行ってください。（**コマンドの最後に -y を追加してあります**）
 
@@ -50,9 +48,7 @@ pip install --user PyQt5
 
 これでインストール出来たら、
 
-```shell
-! pyinstaller 〇〇〇〇.py --onefile --noconsole -y
-```
+<pre><code class="shell">! pyinstaller 〇〇〇〇.py --onefile --noconsole -y</code></pre>
 
 で再度アプリ化を行ってください。
 
