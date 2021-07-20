@@ -26,7 +26,7 @@ pip install PyQt5
 
 ![image-20210720104415710](assets/image-20210720104415710.png)
 
-インストール出来たら、もう一度
+インストール出来たら、
 
 <pre><code class="shell">! pyinstaller 〇〇〇〇.py --onefile --noconsole -y</code></pre>
 
@@ -50,7 +50,7 @@ pip install --user PyQt5
 
 <pre><code class="shell">! pyinstaller 〇〇〇〇.py --onefile --noconsole -y</code></pre>
 
-で再度アプリ化を行ってください。
+で再度アプリ化を行ってください。（**コマンドの最後に -y を追加してあります**）
 
 　　
 
